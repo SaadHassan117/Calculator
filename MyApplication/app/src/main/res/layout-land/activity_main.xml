@@ -195,35 +195,13 @@
         android:text="-" />
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginEnd="550dp"
-        android:layout_marginBottom="248dp"
-        android:text="TextView" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
-
-    <TextView
         android:id="@+id/textView14"
         android:layout_width="408dp"
         android:layout_height="29dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="0dp"
-        android:layout_marginBottom="582dp" />
+        android:layout_marginEnd="422dp"
+        android:layout_marginBottom="233dp" />
 
     <TextView
         android:id="@+id/textView15"
@@ -231,7 +209,7 @@
         android:layout_height="29dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="0dp"
-        android:layout_marginBottom="493dp" />
+        android:layout_marginEnd="421dp"
+        android:layout_marginBottom="163dp" />
 
 </RelativeLayout>
